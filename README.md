@@ -1,6 +1,6 @@
 # PORTFOLIO
 Este es mi portafolio de QA. 
-[Silvia Osorio Portafolio](https://bootcamp-qa.github.io/web-portfolio-template)
+[Silvia Osorio Portafolio](https://silviaqaorganization.github.io/portafolioqa/)
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
